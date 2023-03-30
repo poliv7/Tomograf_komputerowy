@@ -1,0 +1,5 @@
+Imie: PY_VAR0
+Nazwisko: PY_VAR1
+ID_pacjenta: PY_VAR3
+komentarz: PY_VAR2
+data: PY_VAR4
